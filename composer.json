@@ -1,0 +1,16 @@
+{
+    "name": "ericogie/mvc",
+    "description": "A basic php custom mvc For Teaching purposes only",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eric Ogie Aghahowa"
+        }
+    ],
+    
+    "require": {}
+}
